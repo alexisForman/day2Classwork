@@ -1,0 +1,36 @@
+
+
+
+
+//variable string
+    "hamburger", "hot dog", "fries";
+
+//variable number
+    6.0;
+
+//variable boolean
+    "Michael"=="Michael";
+
+//variable null
+    const Alexis = null;
+
+//variable undefined
+    const Alexis = undefined;
+
+//variable object
+    {ball: yellow}
+
+//variable array
+    ['ball', 'toy', 'car', 'gun'],
+
+
+//variable without value declared
+    let hamburger;
+
+
+ 
+ 
+pen : 1
+ pencil : 2
+ paper : 3
+ computer : 400
